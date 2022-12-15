@@ -1,0 +1,15 @@
+C:\GeakBrains\DZ-9\Z-64\obj\Debug\net6.0\Z-64.csproj.AssemblyReference.cache
+C:\GeakBrains\DZ-9\Z-64\obj\Debug\net6.0\Z-64.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeakBrains\DZ-9\Z-64\obj\Debug\net6.0\Z-64.AssemblyInfoInputs.cache
+C:\GeakBrains\DZ-9\Z-64\obj\Debug\net6.0\Z-64.AssemblyInfo.cs
+C:\GeakBrains\DZ-9\Z-64\obj\Debug\net6.0\Z-64.csproj.CoreCompileInputs.cache
+C:\GeakBrains\DZ-9\Z-64\bin\Debug\net6.0\Z-64.exe
+C:\GeakBrains\DZ-9\Z-64\bin\Debug\net6.0\Z-64.deps.json
+C:\GeakBrains\DZ-9\Z-64\bin\Debug\net6.0\Z-64.runtimeconfig.json
+C:\GeakBrains\DZ-9\Z-64\bin\Debug\net6.0\Z-64.dll
+C:\GeakBrains\DZ-9\Z-64\bin\Debug\net6.0\Z-64.pdb
+C:\GeakBrains\DZ-9\Z-64\obj\Debug\net6.0\Z-64.dll
+C:\GeakBrains\DZ-9\Z-64\obj\Debug\net6.0\refint\Z-64.dll
+C:\GeakBrains\DZ-9\Z-64\obj\Debug\net6.0\Z-64.pdb
+C:\GeakBrains\DZ-9\Z-64\obj\Debug\net6.0\Z-64.genruntimeconfig.cache
+C:\GeakBrains\DZ-9\Z-64\obj\Debug\net6.0\ref\Z-64.dll
